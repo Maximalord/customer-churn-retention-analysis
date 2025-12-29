@@ -91,14 +91,6 @@ An interactive Tableau dashboard was built to communicate insights to stakeholde
 
 ---
 
-## 🤖 Optional: Predictive Modeling
-
-A baseline logistic regression model was used to **rank customers by churn risk** for prioritization (not production deployment).
-
-📄 See: `/notebooks/04_churn_model_baseline.ipynb`
-
----
-
 ## 🧠 Skills Demonstrated
 
 * SQL (joins, cohorts, aggregations)
